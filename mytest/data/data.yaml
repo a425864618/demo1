@@ -1,0 +1,21 @@
+
+registersuccess:
+  - {"mobilephone":"new","pwd":"123456","regname":"$regname"}
+
+rechargesuccess:
+  - {"mobilephone":"15768292056","amount":30000}
+
+rechargelost120115:
+  - {"mobilephone":"15768292056","amount":""}
+
+loanaddsuccess:
+  - {"memberId":123,"title":"借钱","amount":10000,"loanRate":20,"loanTerm":30,"loanDateType":4,"repaymemtWay":4,"biddingDays":5}
+
+auditsuccess:
+  - {"id":111,"status":4}
+
+bidLoansuccess:
+  - {"memberId":123,"password":123456,"loanId":1,"amount":10000}
+
+generateRepaymentssussess:
+  - {"id":100}

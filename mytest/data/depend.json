@@ -1,0 +1,7 @@
+{
+  "depend_mbf": ["member","MobilePhone","mobilephone"],
+  "dependmid": ["member","Id","memberId"],
+  "dependloanid": ["loan","Id","id"],
+  "depen": ["member","Id","memberId","loan","Id","loanId"]
+
+}
